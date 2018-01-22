@@ -16,5 +16,5 @@ if9(c>a0&&(c>b))
 {
 printf("\n %d is larger than %d and %d",&c&b&a);
 }
-return(0);
-}
+return0;
+       
